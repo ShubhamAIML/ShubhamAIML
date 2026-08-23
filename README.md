@@ -1,63 +1,98 @@
+<h1 align="center">Hi, I'm Shubham 👋</h1>
+<p align="center"><i>AI/ML Engineer — I ship working systems, not notebooks</i></p>
+
+<table>
+<tr>
+<td valign="top">
+
 ```
-..................................................
-..................................................
-...............              .....................    shubham@github
-.............  ....::----:::.  ...................    ----------------
-............ :+*###%%%%%%%%%#-. ..................    OS: IIT Ropar (AI Major)
-............ =@@@@@@@@@@@@@@@@%: .................    Host: Bengaluru, India
-............ :#*##%%%@@@@@@@@@@= .................    Kernel: Python 3.11
-............. :::---=*%%%%@@@@@* .................    Uptime: Fresher, job-hunting
-............ .--=+++===+****%@#: .................
-..............==*%#*+=--++*++%. ..................    Languages.Programming: Python, JavaScript, C++
-............. .:-=----==+=+=+- ...................    Languages.ML/AI: PyTorch, XGBoost, RAG, Transformers
-............. -**=--==+**+===  ...................    Languages.Web: Flask, Django, Next.js, TS
-............. :####**#%%#*+==-. ..................
-.............. -%*+%%@%%*+=-+@#:     .............    Contact
-.............  :#%%@%##*++==#@@%+=:..    .........    ------------------
-...........  .:-+#%@++++++*%@@@@@@%##+=:   .......    Portfolio: portfolio-mxx7.onrender.com
-.........  :=#%@@@%@@#***%@@@@@@@@@@%%%%*-. ......    GitHub: github.com/ShubhamAIML
-..........=%@@@@@@@@@@@@@@@@@@@@@@@@%%%@@%*. .....    LinkedIn: /in/shubham-kumar-016b6816b
-........ -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%+  ....
-....... .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@= ....    GitHub Stats
-....... :@@@@@@@@@@@@@@@@@@%#**#@@@@@@@@@@@@@: ...    ------------------
-....... :@@@@@@@@@@@@@@@@@@****+#@@@@@@@@@@@@+ ...    Repos: 21 | Stars: 8 | Following: 3
-....... -@@@@@@@@@@@@@@@@@%+****#@@@@@@@@@@@@%: ..    Projects Shipped: 15+
-....... =@@@@@@@@@@@@@@@@@%*+*+*%@@@@@@@@@@@@@* ..
-........*@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@#. .
-....... .+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#-...
-....... .===*#@@@@@@@@@@@@@@@@@@@@@@@@##******: ..
+................................................................................
+................................................................................
+................................................................................
+........................                      ..................................
+.....................    .. .:-=++***#*++++--.   ...............................
+.................... .*##%@%@%@@@@@@@@@@@@@@@@*    .............................
+.................... =@@%@@@@%%@@%@@@@@@@@@@@@@%%* .............................
+.................... :@@@@@@@@@@@@@@@@@@@@@@@@@@@@: ............................
+..................... *#=+*#%%%%@@@@@@@@@@@@@@@@@@- ............................
+.....................  ::::::---=+#@@@@@@@@@@@@@@@# ............................
+.....................  :-:::::----=+*####%%%@@@@@@: ............................
+..................... =*--+*#**+======+*#**++%@@@: .............................
+..................... :@*-%@@@%%#*==--=*+=*+==@@. ..............................
+...................... .:-++=+==-:--=-=+-+%*==@- ...............................
+.......................:::-=:::::-====++=+=--#+ .................................
+.......................-##*=:---====+*#+++==** .................................
+...................... +@%@%%%*==+**#%%****=+.    ..............................
+...................... .++*#*#%##%@@@@%#*+==-#@#=  .............................
+.......................  %@*-=*@%@@@%%#**++=--%@@*     .........................
+.........................%@@@@@@@@%%#**++++=-+%@@@%=:.       ...................
+.....................     :=##@%+#***+++++=+%@@@@@@@@@%*+-:.     ...............
+...................   .-+##%%@@@+=**+++++*%@@@@@@@@@@@@@@@@%%*-.   .............
+...................:=#%@@@@@@@%@@#+***+*%@@@@@@@@@@@@@@@@@%@@@%%*=..............
 ```
 
-<h2 align="center">Shubham Kumar Shivam</h2>
-<p align="center"><i>AI/ML Engineer | Building things and shipping them instead of talking about them</i></p>
+</td>
+<td valign="top" width="45%">
 
-<p align="center">
-  <a href="https://portfolio-mxx7.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/shubham-kumar-016b6816b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/shubham1921"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+**shubham@github**
+```
+-----------------
+OS         IIT Ropar — AI Major
+Host       Bengaluru, India
+Kernel     Python 3.11
+Uptime     Fresher · open to work
+Shell      Flask / Django / Next.js
+
+Languages  Python, JS/TS, C++
+ML Stack   PyTorch, XGBoost, RAG,
+           Transformers, SMOTE
+Web Stack  Flask, Django, Next.js,
+           HTML/CSS/JS
+
+Repos      21   Stars      8
+Following  3    Projects   15+
+```
+
+📫 [Portfolio](https://portfolio-mxx7.onrender.com) · [LinkedIn](https://www.linkedin.com/in/shubham-kumar-016b6816b/) · [Kaggle](https://www.kaggle.com/shubham1921)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Flagship Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[LocalRAG Pro](https://github.com/ShubhamAIML)** | Browser-local RAG — TF-IDF + semantic search, PDF/URL/YouTube ingestion, IndexedDB persistence, no server DB | Next.js 14, TS, all-MiniLM-L6-v2 |
+| **[WriteFusion AI](https://writefusion-ai-1.onrender.com)** | Custom 3.4M-param decoder-only Transformer LM, 8 decoding strategies, anti-repetition logic, live REST API | PyTorch, Flask |
+| **[Inkwell](https://github.com/ShubhamAIML)** | GPT-style next-word predictor (4L/4H, 12K vocab) with inline ghost-text + attention visualization | PyTorch, Flask |
+| **[MindScan](https://github.com/ShubhamAIML/MindSacn)** | Teen depression risk predictor, real-time inference | XGBoost, SMOTE, Django |
+| **[AI Symptom Checker](https://github.com/ShubhamAIML/AI-Symptom-Checker)** | 92% accuracy diagnostic assistant | Python, scikit-learn |
+| **3D FPS Portfolio** | Single-file Three.js browser shooter — kill targets to unlock project cards | Three.js |
+
+### 🛠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+</p>
+
+### 📊 GitHub Stats
+
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShubhamAIML&show_icons=true&theme=dark&hide_border=true&count_private=true">
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamAIML&theme=dark&hide_border=true">
 </p>
 
 ---
 
-### About
-
-IIT Ropar AI Major (Aug 2024 – Feb 2026). I build full ML/AI systems end-to-end — model, backend, deployment — not notebooks that stay notebooks. Currently looking for ML Engineer / AI Engineer roles, Bengaluru & remote.
-
-### Flagship Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[LocalRAG Pro](https://github.com/ShubhamAIML/LocalRAG-Pro)** | Browser-local RAG app — TF-IDF + semantic search, PDF/URL/YouTube ingestion, IndexedDB persistence | Next.js 14, TS, all-MiniLM-L6-v2 |
-| **[WriteFusion AI](https://writefusion-ai-1.onrender.com)** | Custom 3.4M-param decoder-only Transformer LM with 8 decoding strategies + anti-repetition logic | PyTorch, Flask REST API |
-| **[Inkwell](https://github.com/ShubhamAIML/Inkwell)** | GPT-style next-word predictor (4L/4H, 12K vocab) with live attention visualization | PyTorch, Flask |
-| **[MindScan](https://github.com/ShubhamAIML/MindSacn)** | Teen depression risk predictor | XGBoost, SMOTE, Django |
-| **[AI Symptom Checker](https://github.com/ShubhamAIML/AI-Symptom-Checker)** | 92% accuracy diagnostic assistant | Python, ML |
-| **3D FPS Portfolio** | Single-file Three.js browser game where shooting targets unlocks project cards | Three.js |
-
-### Stack
-
-`Python` `PyTorch` `Flask` `Django` `Next.js` `TypeScript` `JavaScript` `C++` `XGBoost` `SQL`
-
----
-
-<p align="center"><sub>Every project above is deployed and working, not just committed.</sub></p>
+<p align="center"><sub>Every project above is deployed and working — click through, don't just read.</sub></p>
